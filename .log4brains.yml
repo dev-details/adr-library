@@ -1,0 +1,5 @@
+project:
+  name: Dev Details ADR Templates
+  tz: Etc/UTC
+  adrFolder: ./adrs
+  packages: []
