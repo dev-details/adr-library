@@ -1,13 +1,13 @@
 {
-  "name": "adr-templates",
+  "name": "adr-library",
   "version": "1.0.0",
-  "description": "Dev Details Any/Architecture Decision Record Templates",
+  "description": "Dev Details Any/Architecture Decision Record Library",
   "author": "Dev Details",
   "dependencies": {
     "log4brains": "^1.0.1",
     "webpack": "^5.83.1"
   },
   "scripts": {
-    "build": "log4brains build --out build --basePath /adr-templates"
+    "build": "log4brains build --out build --basePath /adr-library"
   }
 }

@@ -1,8 +1,8 @@
-# Dev Details Any/Architecture Decision Record Templates
+# Dev Details Any/Architecture Decision Record Library 🏛️
 
-[![Log4brains ADRs](https://dev-details.github.io/adr-templates/badge.svg)](https://dev-details.github.io/adr-templates/)
+[![Log4brains ADRs](https://dev-details.github.io/adr-library/badge.svg)](https://dev-details.github.io/adr-library/)
 
-This repository contains a collection of [Any/Architecture Decision Record  (ADR)](https://adr.github.io/) templates from [Dev Details](https://blog.devdetails.com/). The templates are in [MADR](https://adr.github.io/madr/) format and managed with [Log4brains](https://github.com/thomvaill/log4brains/).
+This library contains a collection of [Any/Architecture Decision Record  (ADR)](https://adr.github.io/) templates from [Dev Details](https://blog.devdetails.com/). The templates are in [MADR](https://adr.github.io/madr/) format and managed with [Log4brains](https://github.com/thomvaill/log4brains/).
 
 We understand how vital effective decision-making is in software development. That's why we're sharing these ADR templates to help you with the process. We hope you find them useful for documenting important architectural decisions in your projects.
 
