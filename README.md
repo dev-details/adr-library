@@ -9,3 +9,7 @@ We understand how vital effective decision-making is in software development. Th
 Feel free to use these ADRs as a starting point for your team's decision records. 
 
 We wish you concise, clear, and successful decision-making.
+
+## Other ADR Libraries
+
+- [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record)
